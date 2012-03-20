@@ -1,0 +1,86 @@
+h1 {
+    color:#9e9191;
+    font-size: 38px;
+    font-style: italic;
+  
+}
+
+h2 {
+    color: #9e9191;
+    font-size: 28px;
+}
+
+h3 {
+    
+    color:#d5ccc3;
+    font-size: 12px;
+}
+
+p {
+    color: #db1313;
+    font-size: 16px;
+    
+}
+
+a {
+    text-decoration: none;
+    font-size:18px;
+    color:#523c3c;
+    
+    
+}
+
+#site {
+    width: 975px;
+    height: auto;
+    margin: 0px auto;
+}
+
+#header {
+    width: 975px;
+    height: 125px;
+    float: left;
+    display: inline;
+    text-align: center;
+}
+
+#headerlogo {
+    width: 275px;
+    height: 125px;
+    float: left;
+    display: inline;
+    background: url('/images/headerLeft.jpg');
+}
+
+#menu {
+    width: 700px;
+    height: 125px;
+    float: left;
+    display: inline;
+    background: url('../images/Schermafbeelding-2012-03-13-om-21.11_02.jpg');
+}
+
+#section {
+    width: 975px;
+    height: auto;
+    float: left;
+    display: inline;
+    background: url('../images/Schermafbeelding-2012-03-13-om-21.11_04./jpg');
+}
+
+#content {
+    width: 875px;
+    height: auto;
+    float: left;
+    display: inline;
+    text-align: center;
+    background-color:whitesmoke;
+}
+
+#footer {
+    width: 975px;
+    height: 25px;
+    float: left;
+    display: inline;
+    text-align: center;
+}
